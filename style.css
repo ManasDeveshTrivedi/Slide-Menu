@@ -44,3 +44,9 @@
     box-sizing: border-box;   
     position:relative;
 }
+.options img{
+    width:25px;
+    position: absolute;
+    top: 12px;
+    left: 25px;
+}
